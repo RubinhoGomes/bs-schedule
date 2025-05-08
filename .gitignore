@@ -1,0 +1,17 @@
+## ------ IDE ------
+.idea/
+node_modules/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.iml
+*.swp
+*.swo
+
+## ------ OS ------
+.DS_Store
+Thumbs.db
+
+## ----- Composer ------
+vendor/
+composer.lock
