@@ -1,4 +1,4 @@
-## Bootstrap Calendar
+## Bootstrap Schedule
 ### Author: Rubinho Gomes
 ### 08/05/2025
 
