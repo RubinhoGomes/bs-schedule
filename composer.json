@@ -1,0 +1,20 @@
+{
+    "name": "rubengomes/bs-schedule",
+    "description": "A simple and responsive schedule plugin for Bootstrap 5.",
+    "type": "plugin",
+    "version": "0.1",
+    "require": {
+        "components/jquery": "^3",
+        "twbs/bootstrap": "^5.3"
+    },
+    "require-dev": {
+        "twbs/bootstrap-icons": "^1.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RubinhoGomes",
+            "email": "ruben.gomes16@hotmail.com"
+        }
+    ]
+}
